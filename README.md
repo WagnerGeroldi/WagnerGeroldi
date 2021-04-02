@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WagnerGeroldi 
+- 👀 I’m interested in HMTL, CSS, JAVASCRIPT, JAVA
+- 🌱 I’m currently learning ... JAVA
+- 💞️ I’m looking to collaborate on ... JAVA PROJECTS
+- 📫 How to reach me ... LINKEDIN
