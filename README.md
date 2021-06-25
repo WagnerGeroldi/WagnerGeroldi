@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @WagnerGeroldi 
-- 👀 I’m interested in HMTL, CSS, JAVASCRIPT, JAVA
-- 🌱 I’m currently learning ... JAVA
-- 💞️ I’m looking to collaborate on ... JAVA PROJECTS
-- 📫 How to reach me ... LINKEDIN
+# Bem vindo(a) a meu GitHub
+
+:rocket: Meu nome é Wagner Lucas Geroldi | Desenvolvedor Front-End
+
+:rocket: Sou estudante de Análise de Sistemas focado em Front End, minhas Skills são:
+
+* HTML5
+* CSS3
+* SASS
+* JavaScript
+* TypeScript
+* REACTJS
+* Bootstrap
+
+
+
+No momento estou aprofundando este conhecimento nesta área do Front, mas com o tempo estarei migrando para FullStack onde irei buscar especialização em Banco de Dados e algumas tecnologias BackEnd.
+
