@@ -15,6 +15,7 @@
 * REACTJS
 * Bootstrap
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerGeroldi&layout=compact)](https://github.com/WagnerGeroldi/github-readme-stats)
 
 
 No momento estou aprofundando este conhecimento nesta área do Front, mas com o tempo estarei migrando para FullStack onde irei buscar especialização em Banco de Dados e algumas tecnologias BackEnd.
