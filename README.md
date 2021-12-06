@@ -13,7 +13,7 @@
 * REACTJS
 * Bootstrap
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerGeroldi)](https://github.com/WagnerGeroldi/github-readme-stats)
 
 No momento estou aprofundando este conhecimento nesta área do Front, mas com o tempo estarei migrando para FullStack onde irei buscar especialização em Banco de Dados e algumas tecnologias BackEnd.
 
