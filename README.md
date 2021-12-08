@@ -7,7 +7,7 @@
 :rocket: Sou estudante de Análise de Sistemas focado em Front End, minhas Skills são:
 
 
-* https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15
+* https://camo.githubusercontent.com/26158a97b26f6ceef02771b2e16fe7042d6e8c10892302c86140df0b9d289e5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d4639444333453f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d7768697465
 * https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 * https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 * https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
