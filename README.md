@@ -1,6 +1,6 @@
 # Bem vindo(a) a meu GitHub
 
-:rocket: Meu nome é Wagner Lucas Geroldi | Desenvolvedor Front-End | Apaixonado por Tecnologia
+:rocket: Meu nome é Wagner Lucas Geroldi | Desenvolvedor Front-End | Apaixonado por Tecnologia | Professor de Informática | Aspirante FULLSTACK
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerGeroldi)](https://github.com/WagnerGeroldi/github-readme-stats)
 
@@ -30,10 +30,6 @@
 * ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 * ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
+## Com que estou trabalhando atualmente:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerGeroldi&layout=compact)](https://github.com/WagnerGeroldi/github-readme-stats)
-
-
-No momento estou aprofundando este conhecimento nesta área do Front, mas com o tempo estarei migrando para FullStack onde irei buscar especialização em Banco de Dados e algumas tecnologias BackEnd.
-
