@@ -6,10 +6,6 @@
 
 https://wagnergeroldi.github.io/portifoliowagnergeroldi/
 
-## Como anda meu GIT?
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerGeroldi)](https://github.com/WagnerGeroldi/github-readme-stats)
-
 
 ## Linguagens
 
