@@ -2,11 +2,6 @@
 
 :rocket: Meu nome é Wagner Lucas Geroldi | Desenvolvedor Front-End | Apaixonado por Tecnologia | Professor de Informática | Aspirante FULLSTACK
 
-## Meu Portifólio 🚀
-
-https://wagnergeroldi.github.io/portifoliowagnergeroldi/
-
-
 ## Linguagens
 
 * ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
